@@ -47,17 +47,11 @@
             </p> -->
         </th>
         <th width="800px">
-<!--             <img src="https://github.com/arpy8/arpy8/assets/74809468/5e2eb800-c714-4ded-9e77-9e4d9d197615"> -->
-<!--             <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&redirect=true"> -->
-            <a href="https://github.com/arpy8/PastFm" target="_blank">
-                <img src="https://arpy8-pastfm-backend.hf.space/live">
-<!--                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"> -->
-            </a>
-<!--             <a href="https://www.last.fm/user/arpy8">
-                <img src="https://dynamic-readme-api.vercel.app/spotify_banner" alt="spotify scrobbles banner">
-            </a> -->
-        </th>
-    </tr>
+        <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z6ytvy46r5tei1x5dnitxy6qi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z6ytvy46r5tei1x5dnitxy6qi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=813d9c&bar_color_cover=false">
+  </a>
+</p>
 </table>
 <table>
     <tr>
@@ -65,7 +59,7 @@
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=tysanhyper&show_icons=true&locale=en&theme=dark" alt="tysanhyper"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=tysanhyper&theme=gotham" alt="tysanhyper" /></p>
+            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tysanhyper&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" /></a>
         </th>
     </tr>
 </table>
@@ -168,34 +162,6 @@
 </table>
 <!-- snake gif -->
 <center>
-    <img align="center" alt="snek" src="https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+    <img align="center" alt="snek" src="https://github.com/tysanhyper/tysanhyper/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tysanhyper&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 </center>
-<!-- /snake gif -->
-
-<!-- <table>
-    <tr>
-        <th><img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph"></th>
-        <th><img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph"></th>
-    </tr>
-</table>
- -->
- 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contributions" style="width:100%;" />
- style="width:100%; display: block;">
-<table style="width:100%; border-collapse: collapse;">
-    <tr>
-        <td style="width:50%; vertical-align: top; padding: 0;">
-            <img src="https://wakatime.com/share/@arpy8/8b1a2d14-9e1d-40a3-8c8e-a8ab78166009.svg" alt="activity-graph" style="width:100%; display: block;">
-            <img width="180" height="1">
-        </td>
-        <td style="width:50%; vertical-align: top; padding: 0;">
-            <img src="https://wakatime.com/share/@arpy8/f37380fa-fe10-46b5-be87-b3615df3e975.svg" alt="activity-graph" style="width:100%; display: block;">
-            <img width="180" height="1">
-        </td>
-    </tr>
-</table>
-
-[![](https://github.com/user-attachments/assets/4f4755ff-8527-42c0-b295-7d2c5536599a)](https://holopin.io/@arpitwastaken)
-
-<center><img src="https://github.com/arpy8/arpy8/assets/74809468/293e2a75-4777-4cd7-bcf4-c2765789cfa8" width="25%"></center>    
