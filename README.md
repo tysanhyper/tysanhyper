@@ -53,14 +53,14 @@
   </a>
 </p>
 </table>
-<table>
+<table width="100%">
     <tr>
-        <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=tysanhyper&show_icons=true&locale=en&theme=dark" alt="tysanhyper"/></p>
-        </th>
-        <th>
-           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tysanhyper&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" /></a>
-        </th>
+        <td width="50%" align="center">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tysanhyper&theme=tokyonight" width="100%" alt="GitHub Stats" />
+        </td>
+        <td width="50%" align="center">
+            <img src="https://images.steamusercontent.com/ugc/927044661856450912/51BC2A7123DD5F66F9BD0DFB82504218DD15F085/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%" alt="Steam GIF" />
+        </td>
     </tr>
 </table>
 <br>
@@ -165,3 +165,13 @@
     <img align="center" alt="snek" src="https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tysanhyper&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 </center>
+<table>
+    <tr>
+        <th>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tysanhyper&theme=tokyonight" alt="Profile Details" />
+        </th>
+        <th>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tysanhyper&theme=tokyonight" alt="GitHub Stats" />
+        </th>
+    </tr>
+</table>
