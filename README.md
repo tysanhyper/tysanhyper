@@ -59,7 +59,7 @@
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=tysanhyper&show_icons=true&locale=en&theme=dark" alt="tysanhyper"/></p>
         </th>
         <th>
-           [GitHub Streak](https://streak-stats.demolab.com?user=tysanhyper&theme=dark&hide_border=true&short_numbers=true)
+           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tysanhyper&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun" alt="GitHub Streak" /></a>
         </th>
     </tr>
 </table>
